@@ -8,9 +8,9 @@ public class GitPracticeApplication {
 
 	public static void main(String[] args) {
         System.out.println("CUAT for KDIT 3");
-        System.out.println("CUAT for KUAT 2");
-        System.out.println("KUAT 1");
-        System.out.println("KDIT 1");
+        System.out.println("CUAT for KUAT 1");
+        System.out.println("KUAT 2");
+        System.out.println("KDIT 2");
 		SpringApplication.run(GitPracticeApplication.class, args);
 	}
 
