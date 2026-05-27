@@ -7,10 +7,10 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class GitPracticeApplication {
 
 	public static void main(String[] args) {
-        System.out.println("Feature 1");
-        System.out.println("Feature 2");
-        System.out.println("Feature 3");
-        System.out.println("Feature 4");
+        System.out.println("CUAT for KDIT 1");
+        System.out.println("CUAT for KUAT 2");
+        System.out.println("KUAT 3");
+        System.out.println("KDIT 4");
 		SpringApplication.run(GitPracticeApplication.class, args);
 	}
 
